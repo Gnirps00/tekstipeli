@@ -1,0 +1,46 @@
+﻿Commands:
+* go 'direction': Player goes to given direction, if possible. directions are North, East, South, West, up and down.
+* rest: Causes the player to rest for a short while (this has no substantial effect in game terms).
+* quit: Quits the game.
+* inventory: Shows all items player has.
+* get 'item name': Picks up item from current location, if there are any.
+* examine 'item name': Shows the detail of given item, if player has the item
+* read: Reads text from current location, if there are any. (If you want to read a dictionary, use examine.)
+* talk 'person's name': Talks with given person, if there are any person in current location and is awake.
+* set 'item name': Sets given item to current location.
+* use 'item name': Uses given item, if player has it.
+* answer 'your answer': Use this command only in the final room to clear the game, if you use it outside the final room…
+
+
+Caution:
+* If you use command answer ‘something’ outside the final room, you’ll lose the game.
+* If you use command answer ‘something’ with wrong answer, you’ll lose the game.
+* If you use gems, you’ll lose.
+
+Walkthrough:
+* Shortly explained, in this game, you have to collect three gems, set them to the area ‘basement’ and wake up Merlin. Read the hint and get the key for final room, where is final problem. Solve the problem and go to teleport room, and you’ve passed the game!
+* The game starts from bedroom. (On the map it’s simply ‘Start’)
+* Get the dictionary from the room. To read this dictionary, you have to use a command examine.
+* Go East and read the text.
+* Go East and collect blue gem.
+* Go West and go South. Collect green gem.
+* Go West and read the text. It’s written in Japanese, so use command examine dictionary, and translate it to english. (If you can read Japanese, then you don’t need it XD)
+* Go South and collect red gem. If player didn’t know how to translate, steward gives a hint for that.
+* Go North, East and then down. There is sleeping Merlin. Set every collected gems and wake up Merlin. Merlin teaches how to open the way to flower garden. 
+* Go up, West and twice South. Use there secret command abrakadabra east, which Merlin taught you before, to open the way to flower garden.
+* Go East and collect key.
+* Go West and three times North.
+* At North Corridor use the key you’ve collected from the flower garden. Door opens.
+* Go North. You are in the final room. Read the text, where the problem is. Use dictionary to solve the problem. The answer is arthur. So command answer arthur. Then the final door opens.
+* Go North and you’ve cleared the game!
+
+
+Secret trick!
+* As you can see from the map (because you are a course assistant), there is a secret room in North of bedroom.
+* Use abrakadabra north in bedroom and open the way to there. 
+* Go North. And you’ll realize that there is a way to East.
+* Go East. And you are in the final room without using the Key!!
+* And just solve the problem as normal way and you’ve cleared the game!!
+
+About the map:
+* There are two different maps in this file. One is for normal player and one for you assistants. Please use the second one, because there are all the items and secret room drawn, so it's easier to clear the game.
